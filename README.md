@@ -1,2 +1,3 @@
 # keiko-corp
-The greatest company ever created
+
+Project to practice webpage optimization
